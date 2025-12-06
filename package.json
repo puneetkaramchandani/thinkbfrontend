@@ -1,0 +1,24 @@
+{
+  "name": "thinkbfrontend",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/puneetkaramchandani/thinkbfrontend#readme",
+  "bugs": {
+    "url": "https://github.com/puneetkaramchandani/thinkbfrontend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puneetkaramchandani/thinkbfrontend.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "serve -s ."
+  },
+  "dependencies": {
+    "serve": "^14.2.5"
+  }
+}
